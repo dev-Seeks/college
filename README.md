@@ -14,6 +14,8 @@ You can navigate to each assignment's folder to find the solution files and any 
 
 ## 🗂️ Table of Contents
 
-Semester wise:
+School Years:
 - [2023-2024](https://github.com/dev-Seeks/college/tree/main/2023-2024)
-- [2nd Semester]
+- [Summer 2024] - NOT STARTED YET
+- [2024-2025] - NOT STARTED YET
+- 
