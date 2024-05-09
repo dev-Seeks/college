@@ -1,4 +1,4 @@
-<h4>The Expense Tracker is a commandline-based application designed to help users manage their expenses effectively. It provides various features to log expenses, manage budgets, analyze spending patterns, and track expense trends over time. Below are the key features of the Expense Tracker:</h4>
+<h3>The Expense Tracker is a commandline-based application designed to help users manage their expenses effectively.</h3>
 
 <hr>
 
